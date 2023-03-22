@@ -1,0 +1,12 @@
+{
+  "name": "lunch-slack-bot",
+  "version": "1.0.0",
+  "description": "lunch slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Takhyun Kim",
+  "license": "ISC"
+}
